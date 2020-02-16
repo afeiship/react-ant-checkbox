@@ -31,7 +31,6 @@ export default class ReactAntCheckbox extends Component {
   };
 
   static defaultProps = {
-    value: false,
     defaultValue: false,
     onChange: noop
   };

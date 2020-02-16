@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/react-ant-checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checkbox for antd.",
   "main": "dist/index.js",
   "scripts": {

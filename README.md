@@ -15,7 +15,7 @@ npm update @feizheng/react-ant-checkbox
 | Name         | Type   | Default | Description                           |
 | ------------ | ------ | ------- | ------------------------------------- |
 | className    | string | -       | The extended className for component. |
-| value        | bool   | false   | The controlled value.                 |
+| value        | bool   | -       | The controlled value.                 |
 | defaultValue | bool   | false   | Default value.                        |
 | onChange     | func   | noop    | The change handler.                   |
 
