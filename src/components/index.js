@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import noop from '@feizheng/noop';
+import noop from '@jswork/noop';
 import { Checkbox } from 'antd';
-import objectAssign from 'object-assign';
 
 const CLASS_NAME = 'react-ant-checkbox';
 
